@@ -1,8 +1,9 @@
 ## Food-Recipe-Recommender
-A food recommendation website based on a Udemy course by Jonas Schmedtmann
+A food recipe recommendation website based on a Udemy course by Jonas Schmedtmann
 
 To first start the project, you need Node.js to run its dependencies
-$npm install
+
+`$npm install`
 
 -----SCRIPTS-----
 Use WebPack to run the 3 scripts
